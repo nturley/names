@@ -1,5 +1,6 @@
 Places
 ------
+```
 Sneakbellow
 Plain Hill
 Yellowfield
@@ -115,9 +116,10 @@ Cripple Ford
 Grindbutte
 Mellow Branch
 Ragged Downs
-
+```
 People
 -----
+```
 Russell
 Vernon
 Michael
@@ -1297,4 +1299,4 @@ Nathan
 Adolph
 Nelson
 Otis
-
+```
